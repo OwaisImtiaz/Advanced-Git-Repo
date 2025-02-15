@@ -1,1 +1,2 @@
 This line is from branchA.
+This line is from branchB.
